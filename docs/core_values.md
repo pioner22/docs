@@ -8,4 +8,4 @@ A long term goal of OpenBazaar is to be cryptocurrency and blockchain agnostic. 
 
 The project is guided by the processes of other successful open source projects (Bitcoin, Linux etc). If you would like features to be added to the protocol, it is possible to submit OBIPs (OpenBazaar Improvement Plans) after discussing them with the OpenBazaar core developers.
 
-
+cool
